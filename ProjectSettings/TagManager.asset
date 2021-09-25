@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - objetos
+  - botes
+  - usos
   layers:
   - Default
   - TransparentFX
@@ -41,6 +44,6 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Player
+  - name: Objetos
     uniqueID: 3849409357
     locked: 0
